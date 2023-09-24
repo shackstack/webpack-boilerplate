@@ -1,0 +1,6 @@
+{
+  "presets": [
+    ["@babel/preset-react", { "runtime": "automatic" }] // react import 안해도 트랜스파일해주는 설정
+  ],
+  "plugins": ["react-refresh/babel"]
+}
